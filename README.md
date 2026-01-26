@@ -5,7 +5,7 @@ Hands-on IT projects focused on help desk fundamentals, Windows administration, 
 ## Featured Projects
 
 * **Homelab Enterprise Network (VLANs, Omada ER605, Proxmox, TrueNAS)**
-  Repo: [link text](https://github.com/josephsalas-tech/homelab-enterprise-network) | Diagram: (link) | Write-up: (link)
+  Repo: [click here](https://github.com/josephsalas-tech/homelab-enterprise-network) | Diagram: (link) | Write-up: (link)
 
 * **Active Directory Lab (Windows Server 2019 DC + Windows 10 Client)**
   Repo: (link) | Setup guide: (link) | Troubleshooting notes: (link)
