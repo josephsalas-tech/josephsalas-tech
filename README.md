@@ -8,7 +8,7 @@ Hands-on IT projects focused on help desk fundamentals, Windows administration, 
   Repo: [click here](https://github.com/josephsalas-tech/homelab-enterprise-network) | Diagram: (link) | Write-up: (link)
 
 * **Active Directory Lab (Windows Server 2019 DC + Windows 10 Client)**
-  Repo: (link) | Setup guide: (link) | Troubleshooting notes: (link)
+  Repo: [click here](https://github.com/josephsalas-tech/active-directory-lab) | Setup guide: (link) | Troubleshooting notes: (link)
 
 * **Pi-hole DNS Filtering (VLAN-aware)**
   Repo: [click here](https://github.com/josephsalas-tech/Pi-hole-lab) | Results screenshots: (link) | Lessons learned: (link)
