@@ -11,7 +11,7 @@ Hands-on IT projects focused on help desk fundamentals, Windows administration, 
   Repo: (link) | Setup guide: (link) | Troubleshooting notes: (link)
 
 * **Pi-hole DNS Filtering (VLAN-aware)**
-  Repo: (link) | Results screenshots: (link) | Lessons learned: (link)
+  Repo: [click here](https://github.com/josephsalas-tech/Pi-hole-lab) | Results screenshots: (link) | Lessons learned: (link)
 
 * **VPN Remote Access (WireGuard / OpenVPN troubleshooting)**
   Repo: (link) | Runbook: (link)
