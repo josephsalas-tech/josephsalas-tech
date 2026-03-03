@@ -4,6 +4,9 @@ Hands-on IT projects focused on help desk fundamentals, Windows administration, 
 
 ## Featured Projects
 
+* Homelab Infrastructure – Proxmox-Based Virtualization Environment
+ View Project Repo: [click here]
+
 * Homelab Enterprise Network – VLAN segmentation using Omada ER605, and managed switching  
  View Project Repo: [click here](https://github.com/josephsalas-tech/homelab-enterprise-network)
 
