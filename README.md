@@ -13,6 +13,9 @@ Hands-on IT projects focused on help desk fundamentals, Windows administration, 
 * **Pi-hole DNS Filtering (VLAN-aware)**
   Repo: [click here](https://github.com/josephsalas-tech/Pi-hole-lab) | Results screenshots: (link) | Lessons learned: (link)
 
+* **Osticket Lab - Ticketing System Intergrated with Active Directory**
+  Repo: [click here] | Results screenshots: (link) | Lessons learned: (link)
+
 * **VPN Remote Access (WireGuard / OpenVPN troubleshooting)**
   Repo: (link) | Runbook: (link)
 
