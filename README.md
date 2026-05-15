@@ -26,7 +26,7 @@ Hands-on IT projects focused on help desk fundamentals, Windows administration, 
    View Project Repo: [click here](https://github.com/josephsalas-tech/Osticket-lab) 
 
 * **VPN Remote Access (Tailscale)**
-   View Project Repo: (clikc here)(https://github.com/josephsalas-tech/VPN-remote-access) 
+   View Project Repo: [clikc here](https://github.com/josephsalas-tech/VPN-remote-access) 
 
 ## Real-World IT Scenarios
 
