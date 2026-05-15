@@ -15,6 +15,9 @@ Hands-on IT projects focused on help desk fundamentals, Windows administration, 
 
 * **Active Directory Lab - User Managment, Password Resets, and Account Lockout Simulation (Windows Server 2019 DC + Windows 10 Client)**
   View Project Repo: [click here](https://github.com/josephsalas-tech/active-directory-lab)
+  
+* **Hybrid-entra lab - connection of local AD to Entra to create hybrid on-premises AD**
+  View Project Repo: [click here]
 
 * **Pi-hole DNS Filtering (VLAN-aware)**
    View Project Repo: [click here](https://github.com/josephsalas-tech/Pi-hole-lab) 
