@@ -23,10 +23,10 @@ Hands-on IT projects focused on help desk fundamentals, Windows administration, 
    View Project Repo: [click here](https://github.com/josephsalas-tech/Pi-hole-lab) 
 
 * **Osticket Lab - Ticketing System Intergrated with Active Directory**
-   View Project Repo: [click here](https://github.com/josephsalas-tech/Osticket-lab) |
+   View Project Repo: [click here](https://github.com/josephsalas-tech/Osticket-lab) 
 
-* **VPN Remote Access (WireGuard / OpenVPN troubleshooting)**
-  Repo: (link) | Runbook: (link)
+* **VPN Remote Access (Tailscale)**
+   View Project Repo: (clikc here)() 
 
 ## Real-World IT Scenarios
 
