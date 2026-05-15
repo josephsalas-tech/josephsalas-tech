@@ -5,13 +5,13 @@ Hands-on IT projects focused on help desk fundamentals, Windows administration, 
 ## Featured Projects
 
 * **Homelab Infrastructure – Proxmox-Based Virtualization Environment**
- View Project Repo: [click here](https://github.com/josephsalas-tech/Homelab-machine)
+  View Project Repo: [click here](https://github.com/josephsalas-tech/Homelab-machine)
 
 * **Homelab Enterprise Network – VLAN segmentation using Omada ER605,DHCP/DNS Configuartion and managed switching**
- View Project Repo: [click here](https://github.com/josephsalas-tech/homelab-enterprise-network)
+  View Project Repo: [click here](https://github.com/josephsalas-tech/homelab-enterprise-network)
 
 * **Structured Cabling Project - Residential Network Installation (Cat6, Routing, cable pulling, Termination)**
- View Project Repo: [click here](https://github.com/josephsalas-tech/Structured-cabling-project-) 
+  View Project Repo: [click here](https://github.com/josephsalas-tech/Structured-cabling-project-) 
 
 * **Active Directory Lab - User Managment, Password Resets, and Account Lockout Simulation (Windows Server 2019 DC + Windows 10 Client)**
   View Project Repo: [click here](https://github.com/josephsalas-tech/active-directory-lab)
@@ -20,13 +20,13 @@ Hands-on IT projects focused on help desk fundamentals, Windows administration, 
   View Project Repo: [click here](https://github.com/josephsalas-tech/hybrid-entra-lab)
 
 * **Pi-hole DNS Filtering (VLAN-aware)**
-   View Project Repo: [click here](https://github.com/josephsalas-tech/Pi-hole-lab) 
+  View Project Repo: [click here](https://github.com/josephsalas-tech/Pi-hole-lab) 
 
 * **Osticket Lab - Ticketing System Intergrated with Active Directory**
-   View Project Repo: [click here](https://github.com/josephsalas-tech/Osticket-lab) 
+  View Project Repo: [click here](https://github.com/josephsalas-tech/Osticket-lab) 
 
 * **VPN Remote Access (Tailscale)**
-   View Project Repo: [clikc here](https://github.com/josephsalas-tech/VPN-remote-access) 
+  View Project Repo: [clikc here](https://github.com/josephsalas-tech/VPN-remote-access) 
 
 ## Real-World IT Scenarios
 
