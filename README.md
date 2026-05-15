@@ -11,7 +11,7 @@ Hands-on IT projects focused on help desk fundamentals, Windows administration, 
  View Project Repo: [click here](https://github.com/josephsalas-tech/homelab-enterprise-network)
 
 * **Structured Cabling Project - Residential Network Installation (Cat6, Routing, cable pulling, Termination)**
-  Repo: (link) | Photos: (link) | Cable plan: (link)
+ View Project Repo: [click here](https://github.com/josephsalas-tech/Structured-cabling-project) | Photos: (link) | Cable plan: (link)
 
 * **Active Directory Lab - User Managment, Password Resets, and Account Lockout Simulation (Windows Server 2019 DC + Windows 10 Client)**
   View Project Repo: [click here](https://github.com/josephsalas-tech/active-directory-lab)
